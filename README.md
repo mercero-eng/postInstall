@@ -6,7 +6,7 @@ Thanks for installing Mercero Deal Desk (MD2). Before using the app, Salesforce 
 
 MD2 is independent of Salesforce CPQ, but it does come with useful features derived from CPQ. In order to unlock Salesforce CPQ integrated functionality, the following custom setting will have to be set:
 
-Setup -> Platform Tools: Custom Code -> Custom Settings -> Mercero Deal Desk: CPQ Integration  -> Manage -> New
+Setup &rarr; Platform Tools: Custom Code &rarr; Custom Settings &rarr; Mercero Deal Desk: CPQ Integration  &rarr; Manage &rarr; New
 
 Check "Use CPQ"
 
@@ -17,7 +17,7 @@ Check "Use CPQ"
 
 After installation of the MD2 package, recommended post install configurations can be applied using pre packaged scripts that are accessible to the System Administrator:
 
-Setup -> Platform Tools: Custom Code -> Visualforce Pages -> Post Install
+Setup &rarr; Platform Tools: Custom Code &rarr; Visualforce Pages &rarr; Post Install
 
 <img alt="Custom CPQ Setting" src="images/PostInstall.png" width="768px"/>
 
