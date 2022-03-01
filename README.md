@@ -28,14 +28,14 @@ All functions provided by this page are self explanatory. However, concerns in t
 This function is available to orgs that do not have any data - typically fresh installs on scratch orgs to be used for demos or development. In case an org has data, this button will be disabled. It can also be run only once, as the aforementioned rule that disables it would apply after one successful run.
 
 
-## Deal Desk Queue and Case Assignment Rule
+### Deal Desk Queue and Case Assignment Rule
 
 MD2 uses the standard Salesforce Case object. MD2 specific cases are assigned to users via a queue and case assignment rule that must be setup once after installation in order to utilize optimal case routing capabilities of MD2.
 
 This is a one time setup. Once it runs successfully, the button will be disabled on this page.
 
 
-## Post Install Updates
+### Post Install Updates
 
 MD2 requires several post install meta data updates that are not amenable to Salesforce packaging. These meta data updates greatly enhance the user experience. However, they must be run each time the MD2 app is patched or upgraded to a more recent version.
 
