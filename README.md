@@ -10,4 +10,4 @@ Setup -> Platform Tools: Custom Code -> Mercero Deal Desk: CPQ Integration  -> M
 
 Check "Use CPQ"
 
-<img alt="alt_text" width="40px" src="images/Custom-Settings-Salesforce.png" width="200"/>
+<img alt="Custom CPQ Setting" src="images/Custom-Settings-Salesforce.png" width="200px"/>
