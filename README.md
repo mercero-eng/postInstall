@@ -9,5 +9,3 @@ MD2 is independent of Salesforce CPQ, but it does come with useful features deri
 Setup -> Platform Tools: Custom Code -> Mercero Deal Desk: CPQ Integration  -> Manage -> New
 
 Check "Use CPQ"
-
-[<img alt="alt_text" width="40px" src="images/Custom-Settings-Salesforce.png" />](https://www.google.com/)
